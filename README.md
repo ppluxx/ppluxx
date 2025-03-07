@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-Linux-brightgreen?style=flat&logo=arch-linux&logoColor=white" style="display:inline-block;" />
-  <img src="https://img.shields.io/badge/Assembly-x86-9cf?style=flat&logo=assembly&logoColor=white" style="display:inline-block;" />
+  <img src="https://img.shields.io/badge/Assembly-9cf?style=flat&logo=assemblyscript&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=vscodium&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" style="display:inline-block;" />
