@@ -10,7 +10,7 @@
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: The first programming language I've ever tried to learn was **Assembly**  
 - 💻 I'm passionate about **open-source software** and **Linux**  
-- 🎮 I'm a fan of **Touhou Project** and **The Big Bang Theory**  
+- 🎮 I'm a big fan of **Touhou Project** and **The Big Bang Theory**  
 
 <p align="center">
   <img src="https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg" width="25px" style="display:inline;" />
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ppluxx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" />
 </p>
 
-## 💡 Fun fact about me:
+## 💡 About me:
 I'm always looking for new ways to make **open-source projects** more interactive and user-friendly! I have a lot of fun building with **Assembly** and **Kotlin**.
 
 ## 🔧 Tools I Use:
