@@ -27,18 +27,17 @@
   <img src="https://img.shields.io/badge/Arch-Linux-brightgreen?style=flat&logo=arch-linux&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Assembly-x86-9cf?style=flat&logo=assembly&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white" style="display:inline-block;" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="display:inline-block;" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=vscodium&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white" style="display:inline-block;" />
-  <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=konsole&logoColor=white" style="display:inline-block;" />
+  <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=gnometerminal&logoColor=white" style="display:inline-block;" />
 </p>
 
 ## 🌐 Socials:
 
 <p align="center">
   <a href="https://github.com/ppluxx"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ppluxx/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ppluxx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://twitter.com/ppluxx"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.instagram.com/ppluxx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -48,14 +47,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ppluxx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" />
 </p>
 
-## 💡 Fun fact:
+## 💡 Fun fact about me:
 I'm always looking for new ways to make **open-source projects** more interactive and user-friendly! I have a lot of fun building with **Assembly** and **Kotlin**.
 
 ## 🔧 Tools I Use:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=vscodium&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=konsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=gnometerminal&logoColor=white" />
 </p>
