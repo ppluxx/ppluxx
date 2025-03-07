@@ -6,3 +6,5 @@
 - 📫 How to reach me: Discord: ppluxx
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the first programming language i've ever tried to learn was Assembly
+![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+
