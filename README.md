@@ -3,10 +3,10 @@
 <img src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_1280.png" width="150px" align="right">
 <img src="https://community.kde.org/images.community/thumb/4/40/Mascot_konqi.png/540px-Mascot_konqi.png?20170108205743" width="150px" align="right">
 
-- 🔭 I’m currently working on **erabot**  
+- 🔭 I’m currently working on **my studies**  
 - 🌱 I’m currently learning **Kotlin**  
 - 💬 Ask me about **aoi.js**  
-- 📫 How to reach me: Discord: **ppluxx**  
+- 📫 How to reach me: **e-mail me** 
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: The first programming language I've ever tried to learn was **Assembly**  
 - 💻 I'm passionate about **open-source software** and **Linux**  
@@ -17,7 +17,6 @@
   <img src="https://kde.org/stuff/clipart/logo/plasma-logo-colorful.svg" width="25px" style="display:inline;" />
   <img src="https://media.tenor.com/_o1dMUowXEEAAAAj/reimu-touhou.gif" width="25px" style="display:inline;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="25px" style="display:inline;" />
-  <img src="https://codefinder.dev/static/assets/languages/Assembly.png" width="25px" style="display:inline;" />
   <img src="https://img.icons8.com/color/512/arch-linux.png" width="25px" style="display:inline;" />
 </p>
 
@@ -25,10 +24,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-Linux-brightgreen?style=flat&logo=arch-linux&logoColor=white" style="display:inline-block;" />
-  <img src="https://img.shields.io/badge/Assembly-9cf?style=flat&logo=assemblyscript&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=vscodium&logoColor=white" style="display:inline-block;" />
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white" style="display:inline-block;" />
   <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=gnometerminal&logoColor=white" style="display:inline-block;" />
 </p>
@@ -37,8 +34,6 @@
 
 <p align="center">
   <a href="https://github.com/ppluxx"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/ppluxx"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/ppluxx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ## 📊 GitHub Stats:
@@ -54,7 +49,6 @@ I'm always looking for new ways to make **open-source projects** more interactiv
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=vscodium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white" />
   <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=gnometerminal&logoColor=white" />
 </p>
