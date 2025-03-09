@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/Konsole-2E3436?style=flat&logo=gnometerminal&logoColor=white" style="display:inline-block;" />
 </p>
 
-## 🌐 Socials:
-
-<p align="center">
-  <a href="https://github.com/ppluxx"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
 ## 📊 GitHub Stats:
 
 <p align="center">
