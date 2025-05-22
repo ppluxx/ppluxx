@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Kotlin**  
 - 💬 Ask me about **aoi.js**  
 - 📫 How to reach me: **e-mail me** 
-- 😄 Pronouns: **he/him**  
+- 😄 Pronouns: **he/him, she/her**  
 - ⚡ Fun fact: The first programming language I've ever tried to learn was **Assembly**  
 - 💻 I'm passionate about **Linux**  
 - 🎮 I'm a big fan of **Touhou Project** and **The Big Bang Theory**  
